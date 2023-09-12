@@ -1,0 +1,27 @@
+h1{
+    color: red;
+}
+body{
+        background-color: aquamarine;
+}
+body{
+
+    /*background-image: url("pexels-vlad-alexandru-popa-1402787.jpg");
+    background-size: unset;
+    background-position: left;*/
+}
+h1{
+    border-style: double;
+}
+
+/*bordar radius*/
+.my-div{
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+    border-radius: 40px 1px 40px 1px;
+}
+
+p{
+    display:block;
+}
